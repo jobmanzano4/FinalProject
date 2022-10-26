@@ -96,3 +96,4 @@ C:\Users\job.manzano\source\repos\FinalProject\HttpClientProject\RestSharpProjec
 C:\Users\job.manzano\source\repos\FinalProject\HttpClientProject\RestSharpProject\obj\Debug\net6.0\RestSharpProject.pdb
 C:\Users\job.manzano\source\repos\FinalProject\HttpClientProject\RestSharpProject\obj\Debug\net6.0\RestSharpProject.genruntimeconfig.cache
 C:\Users\job.manzano\source\repos\FinalProject\HttpClientProject\RestSharpProject\obj\Debug\net6.0\ref\RestSharpProject.dll
+C:\Users\job.manzano\source\repos\FinalProject\HttpClientProject\RestSharpProject\bin\Debug\net6.0\RestSharp.dll
