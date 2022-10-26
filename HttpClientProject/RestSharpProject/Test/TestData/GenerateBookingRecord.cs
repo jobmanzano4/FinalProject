@@ -1,4 +1,5 @@
-﻿using RestSharpProject.DataModels;
+﻿using RestSharp;
+using RestSharpProject.DataModels;
 using RestSharpProject.Helpers;
 
 namespace RestSharpProject.Test.TestData
