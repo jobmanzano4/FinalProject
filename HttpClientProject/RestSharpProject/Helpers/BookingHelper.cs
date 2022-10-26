@@ -16,6 +16,7 @@ namespace RestSharpProject.Helpers
    
     public class BookingHelper
     {
+        //RestResponse - Container for data sent back from API including deserialized data
         public static async Task<RestResponse<BookingModelRoot>> AddNewBooking(RestClient restClient)
         {
             restClient = new RestClient();
