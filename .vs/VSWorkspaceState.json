@@ -1,6 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\HttpClientProject",
+    "\\HttpClientProject\\HttpClientProject",
+    "\\HttpClientProject\\Soap",
+    "\\HttpClientProject\\Soap\\Test",
+    "\\HttpClientProject\\TestResults\\Deploy_job.manzano 2022-10-26 18_28_59",
+    "\\HttpClientProject\\TestResults\\Deploy_job.manzano 2022-10-26 18_28_59\\In",
+    "\\HttpClientProject\\TestResults\\Deploy_job.manzano 2022-10-26 18_28_59\\In\\SVPHLP00690"
   ],
+  "SelectedNode": "\\HttpClientProject\\Soap\\Test",
   "PreviewInSolutionExplorer": false
 }
