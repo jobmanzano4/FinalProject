@@ -16,6 +16,18 @@ namespace Soap.Test
         `tCountryCodeAndName` and return type is string
         */
         CountryInfoServiceSoapTypeClient service = null;
-        
+        private List<tCountryCodeAndName> ListOfCountry(CountryInfoServiceSoapTypeClient service)
+        {
+            var listOfCountry = service.ListOfCountryNamesByCode();
+            return listOfCountry;
+        }
+        private static tCountryCodeAndName RandomListofCountryCode(List<tCountryCodeAndName> listOfCountry, CountryInfoServiceSoapTypeClient service)
+        {
+            Random random = new Random();
+            int index = random.Next(0, listOfCountry.Count - 1);
+            return listOfCountry[index];
+        }
+
+      
     }
 }
